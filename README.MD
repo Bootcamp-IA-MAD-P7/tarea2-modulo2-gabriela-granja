@@ -1,6 +1,6 @@
-# 🤖 Tarea 2 – Módulo 2: Regresión Lineal Simple en Machine Learning
+# Tarea 2 – Módulo 2: Regresión Lineal Simple en Machine Learning
 
-## 📌 Introducción
+## Introducción
 
 La regresión es una de las técnicas más utilizadas en Machine Learning para predecir valores numéricos a partir de datos históricos. En esta actividad se investigan los conceptos fundamentales de la Regresión Lineal Simple, sus métricas de evaluación y las buenas prácticas para construir modelos capaces de generalizar correctamente a nuevos datos.
 
